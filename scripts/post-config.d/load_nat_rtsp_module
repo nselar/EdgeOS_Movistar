@@ -1,0 +1,3 @@
+#!/bin/sh
+modprobe nf_nat_rtsp
+
