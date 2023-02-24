@@ -1,4 +1,4 @@
-# EdgeRouterX_Movistar_TV
+# EdgeOS_Movistar_TV
 Backup config to make Ubiquiti's EdgeRouter X to work with Movistar FTTH, internet, voice and TV service
 # Use
 Change the address value of interface on vlan 2 to your own Movistar TV address
