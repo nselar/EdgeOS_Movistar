@@ -1,7 +1,7 @@
 # EdgeOS_Movistar_TV
 Backup config to make Ubiquiti's EdgeRouter X to work with Movistar FTTH, internet, voice and TV service, and now with the native iPv6
 # Use
-Change the address value of interface on vlan 2 to your own Movistar TV address
+Just change the address value of interface on vlan 2 on config.boot to your own Movistar TV address and upload the tar.gz to the restore config section of your router
 ```clojure
  vif 2 {
             address [YourMovistarTVIPAddress]/[Subnet]
